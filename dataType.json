@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "name": "Faker",
+    "born": "2023-10-01",
+    "lane": "middle",
+    "Division": "LCK",
+    "teams" :{
+        "prev": ["DRX", "GEN", "T1", "KT", "HLE", "LSB", "Nongshim"],
+        "current": ["T1"]
+    }
+}

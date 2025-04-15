@@ -1,0 +1,194 @@
+2025-04-15 17:08:25,399 - INFO - Crawling page 1/5
+2025-04-15 17:08:27,866 - ERROR - Error fetching https://example.com/products: 404 Client Error: Not Found for url: https://example.com/products
+2025-04-15 17:08:27,868 - WARNING - No data retrieved from page 1
+2025-04-15 17:08:27,869 - INFO - Crawling page 2/5
+2025-04-15 17:08:29,087 - ERROR - Error fetching https://example.com/products: 404 Client Error: Not Found for url: https://example.com/products?page=2
+2025-04-15 17:08:29,088 - WARNING - No data retrieved from page 2
+2025-04-15 17:08:29,089 - INFO - Crawling page 3/5
+2025-04-15 17:08:32,160 - ERROR - Error fetching https://example.com/products: 404 Client Error: Not Found for url: https://example.com/products?page=3
+2025-04-15 17:08:32,163 - WARNING - No data retrieved from page 3
+2025-04-15 17:08:32,165 - INFO - Crawling page 4/5
+2025-04-15 17:08:33,400 - ERROR - Error fetching https://example.com/products: 404 Client Error: Not Found for url: https://example.com/products?page=4
+2025-04-15 17:08:33,401 - WARNING - No data retrieved from page 4
+2025-04-15 17:08:33,402 - INFO - Crawling page 5/5
+2025-04-15 17:08:34,885 - ERROR - Error fetching https://example.com/products: 404 Client Error: Not Found for url: https://example.com/products?page=5
+2025-04-15 17:08:34,886 - WARNING - No data retrieved from page 5
+2025-04-15 17:08:34,886 - WARNING - No data to save
+2025-04-15 17:08:34,887 - WARNING - No data to save
+2025-04-15 17:08:44,935 - INFO - Crawling page 1/5
+2025-04-15 17:08:47,661 - WARNING - Redirected from https://google.com to https://www.google.com/
+2025-04-15 17:08:47,668 - WARNING - No data retrieved from page 1
+2025-04-15 17:08:47,669 - INFO - Crawling page 2/5
+2025-04-15 17:08:50,489 - WARNING - Redirected from https://google.com to https://www.google.com/?page=2
+2025-04-15 17:08:50,504 - WARNING - No data retrieved from page 2
+2025-04-15 17:08:50,505 - INFO - Crawling page 3/5
+2025-04-15 17:08:52,861 - WARNING - Redirected from https://google.com to https://www.google.com/?page=3
+2025-04-15 17:08:52,875 - WARNING - No data retrieved from page 3
+2025-04-15 17:08:52,876 - INFO - Crawling page 4/5
+2025-04-15 17:08:55,995 - WARNING - Redirected from https://google.com to https://www.google.com/?page=4
+2025-04-15 17:08:56,010 - WARNING - No data retrieved from page 4
+2025-04-15 17:08:56,011 - INFO - Crawling page 5/5
+2025-04-15 17:08:57,657 - WARNING - Redirected from https://google.com to https://www.google.com/?page=5
+2025-04-15 17:08:57,662 - WARNING - No data retrieved from page 5
+2025-04-15 17:08:57,662 - WARNING - No data to save
+2025-04-15 17:08:57,662 - WARNING - No data to save
+2025-04-15 17:14:16,156 - INFO - Crawling page 1/5
+2025-04-15 17:14:17,526 - WARNING - Redirected from https://google.com to https://www.google.com/
+2025-04-15 17:14:17,542 - INFO - 成功提取 Google 搜尋按鈕信息
+2025-04-15 17:14:17,550 - INFO - Got 1 items from page 1
+2025-04-15 17:14:17,550 - INFO - Crawling page 2/5
+2025-04-15 17:14:20,118 - WARNING - Redirected from https://google.com to https://www.google.com/?page=2
+2025-04-15 17:14:20,133 - INFO - 成功提取 Google 搜尋按鈕信息
+2025-04-15 17:14:20,134 - INFO - Got 1 items from page 2
+2025-04-15 17:14:20,134 - INFO - Crawling page 3/5
+2025-04-15 17:14:21,468 - WARNING - Redirected from https://google.com to https://www.google.com/?page=3
+2025-04-15 17:14:21,483 - INFO - 成功提取 Google 搜尋按鈕信息
+2025-04-15 17:14:21,484 - INFO - Got 1 items from page 3
+2025-04-15 17:14:21,484 - INFO - Crawling page 4/5
+2025-04-15 17:14:24,204 - WARNING - Redirected from https://google.com to https://www.google.com/?page=4
+2025-04-15 17:14:24,221 - INFO - 成功提取 Google 搜尋按鈕信息
+2025-04-15 17:14:24,222 - INFO - Got 1 items from page 4
+2025-04-15 17:14:24,222 - INFO - Crawling page 5/5
+2025-04-15 17:14:27,274 - WARNING - Redirected from https://google.com to https://www.google.com/?page=5
+2025-04-15 17:14:27,290 - INFO - 成功提取 Google 搜尋按鈕信息
+2025-04-15 17:14:27,291 - INFO - Got 1 items from page 5
+2025-04-15 17:14:27,314 - INFO - Data saved to scraped_data.csv (5 records)
+2025-04-15 17:14:27,318 - INFO - Data saved to scraped_data.json (5 records)
+2025-04-15 17:15:30,346 - INFO - Crawling page 1/5
+2025-04-15 17:15:32,693 - WARNING - Redirected from https://google.com to https://www.google.com/
+2025-04-15 17:15:32,707 - WARNING - No data retrieved from page 1
+2025-04-15 17:15:32,707 - INFO - Crawling page 2/5
+2025-04-15 17:15:35,563 - WARNING - Redirected from https://google.com to https://www.google.com/?page=2
+2025-04-15 17:15:35,577 - WARNING - No data retrieved from page 2
+2025-04-15 17:15:35,577 - INFO - Crawling page 3/5
+2025-04-15 17:15:37,737 - WARNING - Redirected from https://google.com to https://www.google.com/?page=3
+2025-04-15 17:15:37,742 - WARNING - No data retrieved from page 3
+2025-04-15 17:15:37,742 - INFO - Crawling page 4/5
+2025-04-15 17:15:39,478 - WARNING - Redirected from https://google.com to https://www.google.com/?page=4
+2025-04-15 17:15:39,483 - WARNING - No data retrieved from page 4
+2025-04-15 17:15:39,483 - INFO - Crawling page 5/5
+2025-04-15 17:15:42,330 - WARNING - Redirected from https://google.com to https://www.google.com/?page=5
+2025-04-15 17:15:42,339 - WARNING - No data retrieved from page 5
+2025-04-15 17:15:42,339 - WARNING - No data to save
+2025-04-15 17:15:42,340 - WARNING - No data to save
+2025-04-15 17:18:09,462 - INFO - Crawling page 1/5
+2025-04-15 17:18:12,501 - WARNING - Redirected from https://google.com to https://www.google.com/
+2025-04-15 17:18:12,507 - INFO - Got 1 items from page 1
+2025-04-15 17:18:12,507 - INFO - Crawling page 2/5
+2025-04-15 17:18:13,900 - WARNING - Redirected from https://google.com to https://www.google.com/?page=2
+2025-04-15 17:18:13,905 - INFO - Got 1 items from page 2
+2025-04-15 17:18:13,905 - INFO - Crawling page 3/5
+2025-04-15 17:18:15,957 - WARNING - Redirected from https://google.com to https://www.google.com/?page=3
+2025-04-15 17:18:15,963 - INFO - Got 1 items from page 3
+2025-04-15 17:18:15,963 - INFO - Crawling page 4/5
+2025-04-15 17:18:18,905 - WARNING - Redirected from https://google.com to https://www.google.com/?page=4
+2025-04-15 17:18:18,912 - INFO - Got 1 items from page 4
+2025-04-15 17:18:18,913 - INFO - Crawling page 5/5
+2025-04-15 17:18:20,254 - WARNING - Redirected from https://google.com to https://www.google.com/?page=5
+2025-04-15 17:18:20,264 - INFO - Got 1 items from page 5
+2025-04-15 17:18:20,268 - INFO - Data saved to scraped_data.csv (5 records)
+2025-04-15 17:18:20,270 - INFO - Data saved to scraped_data.json (5 records)
+2025-04-15 17:21:00,615 - INFO - Crawling page 1/5
+2025-04-15 17:21:02,960 - WARNING - Redirected from https://google.com to https://www.google.com/
+2025-04-15 17:21:02,975 - INFO - Got 1 items from page 1
+2025-04-15 17:21:02,976 - INFO - Crawling page 2/5
+2025-04-15 17:21:05,026 - WARNING - Redirected from https://google.com to https://www.google.com/?page=2
+2025-04-15 17:21:05,030 - INFO - Got 1 items from page 2
+2025-04-15 17:21:05,030 - INFO - Crawling page 3/5
+2025-04-15 17:21:06,992 - WARNING - Redirected from https://google.com to https://www.google.com/?page=3
+2025-04-15 17:21:07,006 - INFO - Got 1 items from page 3
+2025-04-15 17:21:07,006 - INFO - Crawling page 4/5
+2025-04-15 17:21:08,812 - WARNING - Redirected from https://google.com to https://www.google.com/?page=4
+2025-04-15 17:21:08,827 - INFO - Got 1 items from page 4
+2025-04-15 17:21:08,827 - INFO - Crawling page 5/5
+2025-04-15 17:21:10,855 - WARNING - Redirected from https://google.com to https://www.google.com/?page=5
+2025-04-15 17:21:10,870 - INFO - Got 1 items from page 5
+2025-04-15 17:21:10,874 - INFO - Data saved to scraped_data.csv (5 records)
+2025-04-15 17:21:10,875 - INFO - Data saved to scraped_data.json (5 records)
+2025-04-15 17:33:06,492 - INFO - Crawling page 1/5
+2025-04-15 17:33:09,242 - WARNING - No links with title attributes found
+2025-04-15 17:33:09,243 - WARNING - No data retrieved from page 1
+2025-04-15 17:33:09,243 - INFO - Crawling page 2/5
+2025-04-15 17:33:12,223 - WARNING - No links with title attributes found
+2025-04-15 17:33:12,224 - WARNING - No data retrieved from page 2
+2025-04-15 17:33:12,224 - INFO - Crawling page 3/5
+2025-04-15 17:33:13,944 - WARNING - No links with title attributes found
+2025-04-15 17:33:13,944 - WARNING - No data retrieved from page 3
+2025-04-15 17:33:13,944 - INFO - Crawling page 4/5
+2025-04-15 17:33:16,652 - WARNING - No links with title attributes found
+2025-04-15 17:33:16,652 - WARNING - No data retrieved from page 4
+2025-04-15 17:33:16,652 - INFO - Crawling page 5/5
+2025-04-15 17:33:19,590 - WARNING - No links with title attributes found
+2025-04-15 17:33:19,590 - WARNING - No data retrieved from page 5
+2025-04-15 17:33:19,590 - WARNING - No data to save
+2025-04-15 17:33:19,591 - WARNING - No data to save
+2025-04-15 17:34:17,991 - INFO - Crawling page 1/1
+2025-04-15 17:34:19,991 - INFO - Successfully extracted 421 links with title attributes
+2025-04-15 17:34:19,992 - INFO - Got 421 items from page 1
+2025-04-15 17:34:19,994 - INFO - Data saved to scraped_data.csv (421 records)
+2025-04-15 17:34:19,995 - INFO - Data saved to scraped_data.json (421 records)
+2025-04-15 17:42:56,374 - INFO - Crawling page 1/1
+2025-04-15 17:42:58,308 - WARNING - No links with title attributes found
+2025-04-15 17:42:58,309 - WARNING - No data retrieved from page 1
+2025-04-15 17:42:58,309 - WARNING - No data to save
+2025-04-15 17:42:58,309 - WARNING - No data to save
+2025-04-15 17:44:39,569 - INFO - Crawling page 1/1
+2025-04-15 17:44:41,776 - WARNING - No links with title attributes found
+2025-04-15 17:44:41,776 - WARNING - No data retrieved from page 1
+2025-04-15 17:44:41,777 - WARNING - No data to save
+2025-04-15 17:44:41,777 - WARNING - No data to save
+2025-04-15 17:45:08,662 - INFO - Crawling page 1/1
+2025-04-15 17:45:11,822 - INFO - Successfully extracted 1 links with title attributes
+2025-04-15 17:45:11,823 - INFO - Got 1 items from page 1
+2025-04-15 17:45:11,826 - INFO - Data saved to scraped_data.csv (1 records)
+2025-04-15 17:45:11,827 - INFO - Data saved to scraped_data.json (1 records)
+2025-04-15 17:49:01,582 - INFO - Crawling page 1/1
+2025-04-15 17:49:03,273 - INFO - Successfully extracted 1 links with title attributes
+2025-04-15 17:49:03,274 - INFO - Got 1 items from page 1
+2025-04-15 17:49:03,277 - INFO - Data saved to scraped_data.csv (1 records)
+2025-04-15 17:49:03,278 - INFO - Data saved to scraped_data.json (1 records)
+2025-04-15 17:49:07,694 - INFO - Crawling page 1/1
+2025-04-15 17:49:11,136 - INFO - Successfully extracted 4 links with title attributes
+2025-04-15 17:49:11,137 - INFO - Got 4 items from page 1
+2025-04-15 17:49:11,139 - INFO - Data saved to scraped_data.csv (4 records)
+2025-04-15 17:49:11,139 - INFO - Data saved to scraped_data.json (4 records)
+2025-04-15 17:51:26,506 - INFO - Crawling page 1/1
+2025-04-15 17:51:29,584 - ERROR - Error parsing specific element: cannot access local variable 'table_body' where it is not associated with a value
+2025-04-15 17:51:29,584 - WARNING - No data retrieved from page 1
+2025-04-15 17:51:29,584 - WARNING - No data to save
+2025-04-15 17:51:29,584 - WARNING - No data to save
+2025-04-15 17:51:37,998 - INFO - Crawling page 1/1
+2025-04-15 17:51:39,755 - ERROR - Error parsing specific element: cannot access local variable 'table_body' where it is not associated with a value
+2025-04-15 17:51:39,756 - WARNING - No data retrieved from page 1
+2025-04-15 17:51:39,756 - WARNING - No data to save
+2025-04-15 17:51:39,757 - WARNING - No data to save
+2025-04-15 17:52:26,220 - INFO - Crawling page 1/1
+2025-04-15 17:52:29,771 - ERROR - Error parsing specific element: cannot access local variable 'table_body' where it is not associated with a value
+2025-04-15 17:52:29,771 - WARNING - No data retrieved from page 1
+2025-04-15 17:52:29,771 - WARNING - No data to save
+2025-04-15 17:52:29,771 - WARNING - No data to save
+2025-04-15 17:53:17,828 - INFO - Crawling page 1/1
+2025-04-15 17:53:21,036 - ERROR - Error parsing specific element: cannot access local variable 'table_body' where it is not associated with a value
+2025-04-15 17:53:21,036 - WARNING - No data retrieved from page 1
+2025-04-15 17:53:21,036 - WARNING - No data to save
+2025-04-15 17:53:21,036 - WARNING - No data to save
+2025-04-15 17:53:34,476 - INFO - Crawling page 1/1
+2025-04-15 17:53:36,400 - INFO - Successfully extracted 4 links with title attributes
+2025-04-15 17:53:36,400 - INFO - Got 4 items from page 1
+2025-04-15 17:53:36,403 - INFO - Data saved to scraped_data.csv (4 records)
+2025-04-15 17:53:36,404 - INFO - Data saved to scraped_data.json (4 records)
+2025-04-15 17:54:37,024 - INFO - Crawling page 1/1
+2025-04-15 17:54:40,624 - INFO - Successfully extracted 4 links with title attributes
+2025-04-15 17:54:40,625 - INFO - Got 4 items from page 1
+2025-04-15 17:54:40,627 - INFO - Data saved to scraped_data.csv (4 records)
+2025-04-15 17:54:40,628 - INFO - Data saved to scraped_data.json (4 records)
+2025-04-15 17:56:35,033 - INFO - Crawling page 1/1
+2025-04-15 17:56:37,368 - INFO - Successfully extracted 4 links with title attributes
+2025-04-15 17:56:37,369 - INFO - Got 4 items from page 1
+2025-04-15 17:56:37,371 - INFO - Data saved to scraped_data.csv (4 records)
+2025-04-15 17:56:37,372 - INFO - Data saved to scraped_data.json (4 records)
+2025-04-15 17:58:31,738 - INFO - Crawling page 1/1
+2025-04-15 17:58:33,805 - INFO - Successfully extracted 4 links with title attributes
+2025-04-15 17:58:33,805 - INFO - Got 4 items from page 1
+2025-04-15 17:58:33,807 - INFO - Data saved to scraped_data.csv (4 records)
+2025-04-15 17:58:33,808 - INFO - Data saved to scraped_data.json (4 records)
